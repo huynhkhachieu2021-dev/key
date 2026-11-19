@@ -1,0 +1,9 @@
+{
+  "name": "key-verification",
+  "version": "1.0.0",
+  "description": "API kiem tra KEY",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
